@@ -1,0 +1,22 @@
+{
+  "name": "api-docs.activisme.be",
+  "version": "1.0.0",
+  "description": "Source code form all the API documentatio needed for the platforms from activisme.be",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPSB/api-docs.activisme.be.git"
+  },
+  "author": "Tim Joosten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CPSB/api-docs.activisme.be/issues"
+  },
+  "homepage": "https://github.com/CPSB/api-docs.activisme.be#readme",
+  "dependencies": {
+    "aglio": "^2.3.0"
+  }
+}
